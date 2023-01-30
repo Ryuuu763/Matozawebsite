@@ -1,0 +1,6 @@
+<!DOCTYPE>
+<html>
+      <head>
+	        <title></title>
+	  </head>
+	  <body style="background-attachment:fixed; background-size:cover; no-repeat" background="blue.jpg">
